@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "Attractions",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Classic Village view", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1519505.127199999988, 6034722.09910000115633, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Salt Mines", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1519004.323899999261, 6033231.062299996614456, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Charnel Bone House", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1519376.764600001275539, 6034548.000799998641014, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "World Heritage viewpoint", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1518911.539799999446, 6034204.437700003385544, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Museum", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1519393.79639999941, 6034284.654299996793, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Underwater Diving Centre", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1519364.97599999979, 6034158.952600002288818, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Bathing Island", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1519597.99799999967, 6032839.4965, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Giant Ice Cave", "village": 0 }, "geometry": { "type": "Point", "coordinates": [ 1527124.3235, 6029877.998099997639656, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Five Fingers", "village": 0 }, "geometry": { "type": "Point", "coordinates": [ 1524292.780900001525879, 6028686.155199997127056, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Boat Trip", "village": 0 }, "geometry": { "type": "Point", "coordinates": [ 1522656.6541, 6033821.852399997413158, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "World Heritage Skywalk", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1518784.63399999961, 6034160.9983000010252, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Cruise Ferry Tours", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1519522.9747, 6034307.429700002074242, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Waldbachstrub Waterfall", "village": 0 }, "geometry": { "type": "Point", "coordinates": [ 1515689.8462, 6032251.616300001740456, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Old Town and Market Square", "village": 1 }, "geometry": { "type": "Point", "coordinates": [ 1519436.4305, 6034412.0196999982, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Freesports Arena Dachstein Krippstein", "village": 0 }, "geometry": { "type": "Point", "coordinates": [ 1524102.6248, 6030171.003799997270107, 0.0 ] } }
+]
+}

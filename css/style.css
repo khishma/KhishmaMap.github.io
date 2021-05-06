@@ -1,0 +1,27 @@
+
+body{
+	width: 100%;
+	height: 100%;
+	margin: 5px;
+	font-family: "Helvetica Neue", Arial, Helveticam sans-serif;
+}
+
+h1 {
+    color: Red;
+    text-align: center ;
+}
+
+#map {
+	height: 800px;
+	width: 100%;
+	
+	
+}
+	
+.popupimage{
+max-width:200px;
+max-height:200px;
+}
+
+
+	
